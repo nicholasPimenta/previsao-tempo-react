@@ -1,0 +1,12 @@
+/* Variáveis CSS */
+:root {
+    --roxo: #8F30C2;
+    --azul: #2770C2;
+    --cinza: #D7D2F4;
+    --verde: #30C277;
+    --branco: #FEFEFE;
+    --vermelho: #C23327;
+    --sombra: 3px 3px 3px rgba(0, 0, 0, 0.4);
+    --fundo: linear-gradient(90deg, #3F26C2, #7327C2);
+    --clima: linear-gradient(90deg, #7327C2, #3F26C2);
+}
